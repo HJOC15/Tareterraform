@@ -1,5 +1,5 @@
 locals{
-    prefix = "homework-terraform"
+    prefix = "hjhomework-terraform"
     env = "dev"
 
     aws = {
